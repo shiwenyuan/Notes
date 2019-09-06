@@ -1,0 +1,4 @@
+/vendor/
+/.idea/
+/uml/
+.phpunit.result.cache

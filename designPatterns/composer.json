@@ -1,0 +1,17 @@
+{
+    "name": "shiwenyuan/design-patterns",
+    "authors": [
+        {
+            "name": "北行10000",
+            "email": "13341007105@163.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4":{
+            "DesignPatterns\\" :"src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^8.3"
+    }
+}
