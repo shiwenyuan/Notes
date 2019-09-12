@@ -9,7 +9,7 @@
 class Utils
 {
     /**
-     * 把array或json以array字符串的形式输出
+     * 把array或json以array字符串的形式输出 等同于var_export
      * @param $str
      * @return string
      */
