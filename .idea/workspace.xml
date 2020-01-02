@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bd4f22cd-42dd-4c16-b4fa-2be089c7ea10" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcodeCnPhp/algorithm/easy/256.reverseString.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leetcodeCnPhp/algorithm/easy/28.strstr.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leetcodeCnPhp/algorithm/easy/53.subarray.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leetcodeCnPhp/algorithm/easy/66.plusOne.php" afterDir="false" />
@@ -129,7 +128,7 @@
       <workItem from="1567994242507" duration="15701000" />
       <workItem from="1568605960550" duration="3293000" />
       <workItem from="1569203851677" duration="1000" />
-      <workItem from="1577777790169" duration="1138000" />
+      <workItem from="1577777790169" duration="1201000" />
     </task>
     <servers />
   </component>

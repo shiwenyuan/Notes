@@ -17,5 +17,5 @@ leetcode刷题经
 输入：["H","a","n","n","a","h"]
 输出：["h","a","n","n","a","H"]
 ```
-[代码实现](#algorithm/easy/256.reverseString.php)
+[代码实现](https://github.com/shiwenyuan/Notes/blob/master/leetcodeCnPhp/algorithm/easy/256.reverseString.php)
 ---
